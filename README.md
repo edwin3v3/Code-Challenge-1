@@ -7,7 +7,7 @@ Javascript Code Challenge consisting of three js-based programs namely:
 ## 1. Chai Calculator
 A simple Calculator made in javascript to determine the basic ingredients needed to make a specific number of cups of Kenyan chai.
 ### Features
-It is able to detect whether the number entered is actually a whole number - otherwise it throws an error and terminates
+It is able to detect whether the number entered is actually a whole number - otherwise, it throws an error and terminates
 
 
 
