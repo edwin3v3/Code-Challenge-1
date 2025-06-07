@@ -3,12 +3,13 @@ let i = parseInt(numberofCups);
 
 if (isNaN(i)===true) {
     alert('ERROR: The value Entered is not a whole number');
+    throw new Error();
 }
 
 let waterAmt = i*200;
 let milkAmt = i*50;
 let teaAmt = i*1;
-let sugarAmt = i*2
+let sugarAmt = i*2;
 
 console.log('To make '+i+' cups of Kenyan Chai, you will need:');
 console.log('Water: '+waterAmt+'ml');
