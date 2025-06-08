@@ -6,16 +6,10 @@ Javascript Code Challenge consisting of three js-based programs namely:
 
 ### Directory & File structure
 
-```bash
-├── :file_folder: [bodaFareCalculator](./bodaFareCalculator)
-│   ├── [fare.html](./bodaFareCalculator/fare.html)
-│   │   ├── **/*.css
-│   ├── favicon.ico
-```
- 
+
  |--- :file_folder: [bodaFareCalculator](./bodaFareCalculator) 
-             <br/>|------[fare.html](./bodaFareCalculator/fare.html)
-             <br/>|------[fare.js](./bodaFareCalculator/fare.js)
+        <br/>&nbsp;&nbsp;&nbsp;|------[fare.html](./bodaFareCalculator/fare.html)
+        <br/>&nbsp;&nbsp;&nbsp;|------[fare.js](./bodaFareCalculator/fare.js)
  * [chaiCalculator](./chaiCalculator)
    * [chai.html](./dir1/file11.ext)
    * [chai.js](./dir1/file12.ext)
