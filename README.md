@@ -6,7 +6,7 @@ Javascript Code Challenge consisting of three js-based programs namely:
 
 ### Directory & File structure
  
- * [bodaFareCalculator](./bodaFareCalculator)
+ :file_folder: [bodaFareCalculator](./bodaFareCalculator)
    * [fare.html](./bodaFareCalculator/fare.html)
    * [fare.js](./bodaFareCalculator/fare.js)
  * [chaiCalculator](./chaiCalculator)
