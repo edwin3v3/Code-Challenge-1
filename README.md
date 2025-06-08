@@ -4,6 +4,15 @@ Javascript Code Challenge consisting of three js-based programs namely:
 + Boda Fare Calculator
 + Mobile Money Estimator
 
+### Why the Javascript Code Challenge
+The reason behind the code challenge is to practice with javascript and also to provide more practice with the github platform. The areas of javascript practice are:
++ Javascript variable declaration
++ Javascript artithmetic operators
++ Javascript control structures
++ javascript functions
++ Error handling
+
+
 ### Directory & File structure
 
 |--- :file_folder: [bodaFareCalculator](./bodaFareCalculator) 
@@ -36,3 +45,7 @@ It is able to detect whether the number entered is actually a whole number - oth
 A simplified javascript estimator for calculating transaction fees.
 #### Features
 It is able to detect whether the number entered is actually a whole number - otherwise, it throws an error and terminates
+
+
+## Author(s)
+- [Edwin Mwaniki](https://github.com/edwin3v3)
