@@ -7,11 +7,11 @@ Javascript Code Challenge consisting of three js-based programs namely:
 ### Directory & File structure
 
 |--- :file_folder: [bodaFareCalculator](./bodaFareCalculator) 
-        <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|------[fare.html](./bodaFareCalculator/fare.html)
-        <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|------[fare.js](./bodaFareCalculator/fare.js)
- * [chaiCalculator](./chaiCalculator)
-   * [chai.html](./dir1/file11.ext)
-   * [chai.js](./dir1/file12.ext)
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|------[fare.html](./bodaFareCalculator/fare.html)
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|------[fare.js](./bodaFareCalculator/fare.js)
+|--- :file_folder: [chaiCalculator](./chaiCalculator)
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|------[chai.html](./dir1/file11.ext)
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|------[chai.js](./dir1/file12.ext)
  * [mobileMoneyEstimator](./mobileMoneyEstimator)
     * [fee.html](./mobileMoneyEstimator/fee.html)
     * [fee.js](./mobileMoneyEstimator/fee.js)
