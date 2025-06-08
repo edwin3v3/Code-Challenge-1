@@ -1,17 +1,17 @@
 let amountToSend = prompt("Unatuma Ngapi? (KES)");
 let i = parseFloat(amountToSend);
 
+
 if (isNaN(i)===true) {
     alert('ERROR: The value Entered is not a number');
-    throw new Error();
+    throw new Error('Value is not a number');
 
 }
 
 calculateFee(i);
 
 
-
- function calculateFee(i){
+function calculateFee(i){
     console.log('Sending KES '+i);
 
     let tFee = (i*1.5)/100;
@@ -33,8 +33,3 @@ calculateFee(i);
     console.log('\nSend Money Securely')
 
 }
-
-    
-
-
-
