@@ -1,7 +1,12 @@
-let amountToSend = prompt("Unatuma Ngapi? (KES)"); // variable declaration
+/**
+ * Javascipt program to calculate the transaction fee for mobile money transfer with a minimum -
+ *  and maximum transaction fee
+ */
+
+let amountToSend = prompt("Unatuma Ngapi? (KES)"); // variable declaration & prompt to assign value
 let i = parseFloat(amountToSend); // ensure assigned value is a float
 
-//error checking of value provided
+//error checking of value provided with pop up alert
 
 if (isNaN(i)===true) {
     alert('ERROR: The value Entered is not a number');
