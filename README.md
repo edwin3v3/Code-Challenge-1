@@ -7,16 +7,16 @@ Javascript Code Challenge consisting of three js-based programs namely:
 ### Directory & File structure
 
 |--- :file_folder: [bodaFareCalculator](./bodaFareCalculator) 
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|------[fare.html](./bodaFareCalculator/fare.html)
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|------[fare.js](./bodaFareCalculator/fare.js)
+<br/>|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|------[fare.html](./bodaFareCalculator/fare.html)
+<br/>|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|------[fare.js](./bodaFareCalculator/fare.js)
 <br/>
 |--- :file_folder: [chaiCalculator](./chaiCalculator)
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|------[chai.html](./dir1/file11.ext)
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|------[chai.js](./dir1/file12.ext)
+<br/>|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|------[chai.html](./dir1/file11.ext)
+<br/>|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|------[chai.js](./dir1/file12.ext)
 <br/>
 |--- :file_folder: [mobileMoneyEstimator](./mobileMoneyEstimator)
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|------ [fee.html](./mobileMoneyEstimator/fee.html)
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|------ [fee.js](./mobileMoneyEstimator/fee.js)
+<br/>|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|------ [fee.html](./mobileMoneyEstimator/fee.html)
+<br/>|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|------ [fee.js](./mobileMoneyEstimator/fee.js)
 <br/>|-- [index.html](./index.html)
 <br/>|-- [LICENSE](./LICENSE)
 <br/>|-- [README.md](./README.md)
