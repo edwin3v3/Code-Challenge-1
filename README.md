@@ -5,7 +5,7 @@ Javascript Code Challenge consisting of three js-based programs namely:
 + Mobile Money Estimator
 
 ### Why the Javascript Code Challenge
-The reason behind the code challenge is to practice with javascript and also to provide more practice with the github platform. The areas of javascript practice are:
+The reason behind the code challenge is to practice with javascript and also to provide more hands on understanding of the github platform. The areas of javascript practice are:
 + Javascript variable declaration
 + Javascript artithmetic operators
 + Javascript control structures
@@ -13,7 +13,7 @@ The reason behind the code challenge is to practice with javascript and also to 
 + Error handling
 
 
-### Directory & File structure
+### Project Setup - Directory & File structure
 
 |--- :file_folder: [bodaFareCalculator](./bodaFareCalculator) 
 <br/>|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|------[fare.html](./bodaFareCalculator/fare.html)
