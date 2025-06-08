@@ -1,10 +1,10 @@
 # Code-Challenge-1
 Javascript Code Challenge consisting of three js-based programs namely:
-+Chai Calculator
-+Boda Fare Calculator
-+Mobile Money Estimator
++ Chai Calculator
++ Boda Fare Calculator
++ Mobile Money Estimator
 
-### Folder/Code structure
+### Directory & File structure
  
  * [bodaFareCalculator](./bodaFareCalculator)
    * [fare.html](./bodaFareCalculator/fare.html)
@@ -14,7 +14,7 @@ Javascript Code Challenge consisting of three js-based programs namely:
    * [chai.js](./dir1/file12.ext)
  * [mobileMoneyEstimator](./mobileMoneyEstimator)
     * [fee.html](./mobileMoneyEstimator/fee.html)
-    * [fee.js](./mobileMoneyEstimator/fee.js)\
+    * [fee.js](./mobileMoneyEstimator/fee.js)
  * [index.html](./index.html)
  * [LICENSE](./LICENSE)
  * [README.md](./README.md)
@@ -23,7 +23,6 @@ Javascript Code Challenge consisting of three js-based programs namely:
 A simple Calculator made in javascript to determine the basic ingredients needed to make a specific number of cups of Kenyan chai.
 #### Features
 It is able to detect whether the number entered is actually a whole number - otherwise, it throws an error and terminates
-
 
 
 ### 2. Boda Fare Calculator
