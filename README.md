@@ -7,8 +7,8 @@ Javascript Code Challenge consisting of three js-based programs namely:
 ### Directory & File structure
  
  |--- :file_folder: [bodaFareCalculator](./bodaFareCalculator) 
- \n|------[fare.html](./bodaFareCalculator/fare.html)
- \n|------[fare.js](./bodaFareCalculator/fare.js)
+  <br/>|------[fare.html](./bodaFareCalculator/fare.html)
+  <br/>|------[fare.js](./bodaFareCalculator/fare.js)
  * [chaiCalculator](./chaiCalculator)
    * [chai.html](./dir1/file11.ext)
    * [chai.js](./dir1/file12.ext)
