@@ -5,6 +5,13 @@ Javascript Code Challenge consisting of three js-based programs namely:
 + Mobile Money Estimator
 
 ### Directory & File structure
+
+```bash
+├── :file_folder: [bodaFareCalculator](./bodaFareCalculator)
+│   ├── [fare.html](./bodaFareCalculator/fare.html)
+│   │   ├── **/*.css
+│   ├── favicon.ico
+```
  
  |--- :file_folder: [bodaFareCalculator](./bodaFareCalculator) 
              <br/>|------[fare.html](./bodaFareCalculator/fare.html)
